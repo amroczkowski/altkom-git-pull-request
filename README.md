@@ -1,1 +1,0 @@
-# altkom-git-pull-request
